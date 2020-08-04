@@ -1,0 +1,18 @@
+.container {
+    background-color: white;
+    min-height: 105vh;
+}
+
+body{
+    background-color: salmon;
+    margin-bottom: -15px;
+}
+
+nav{
+    margin: -15px;
+}
+
+.post{
+    margin-top: 20px;
+}
+
